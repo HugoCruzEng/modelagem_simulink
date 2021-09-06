@@ -1,0 +1,1 @@
+%folder that contain models files (.slx) and corresponding link set files (.slmx)
