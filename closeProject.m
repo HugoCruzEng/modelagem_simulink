@@ -1,0 +1,3 @@
+% Clear workspace
+clear
+clc
