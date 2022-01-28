@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="data/mcp_nominal_rotation.mat" Name="mcp_nominal_rotation">
+    <Extension Value="2fe19a9f-9f8c-49dc-9cf6-669727a27417" Name="StartUpPrev" />
+</Info>
