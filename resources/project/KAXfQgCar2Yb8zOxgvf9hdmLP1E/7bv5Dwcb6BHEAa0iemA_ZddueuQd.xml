@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="data/ambient_temp.mat" Name="ambient_temp">
+    <Extension Value="799d6b54-7f75-4225-84ef-1ea398a35619" Name="StartUpPrev" />
+</Info>
